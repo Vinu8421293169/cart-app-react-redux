@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Logo() {
   return (
-    <div>
+    <div className="left-margin">
       <svg
         width="36px"
         height="36px"

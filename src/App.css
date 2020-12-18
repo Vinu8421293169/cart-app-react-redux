@@ -107,7 +107,6 @@
 
 @media only screen and (max-width: 767px) {
   #cart-items{
-    padding:10%;
     margin-left: 10%;
     display: grid;
     grid: 400px / 400px;
