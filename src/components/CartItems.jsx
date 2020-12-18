@@ -4,7 +4,7 @@ import data from "./data";
 
 export default function CartItems() {
   return (
-    <div>
+    <div className="center">
       <div id="cart-items">
         {data.map((item, idx) => {
           return <Cart key={idx} item={item} />;
